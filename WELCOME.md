@@ -1,5 +1,7 @@
 # 🎉 Welcome to L.S.K.E STUDIOS! 🎉
 
+*Made by L.S.K.E STUDIOS*
+
 ![Welcome GIF](https://media.giphy.com/media/g9GWusSJjEMS0/giphy.gif)
 
 ## Hello there, friend! 👋
