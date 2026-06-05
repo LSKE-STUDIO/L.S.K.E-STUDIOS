@@ -8,3 +8,5 @@ Welcome to the official About page of L.S.K.E STUDIOS! Connect with our content 
 - **Spotify**: [L.S.K.E Studios on Spotify](https://open.spotify.com/artist/02SsY8aAScqtLXISeWDoLB?si=bfKVkVHHQF-qg0arZof4Fg)
 
 Stay creative and stay connected!
+
+_Last updated: 2026-06-05_
