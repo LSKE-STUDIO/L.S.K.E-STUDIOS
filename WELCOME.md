@@ -2,7 +2,7 @@
 
 *Made by L.S.K.E STUDIOS*
 
-![Welcome GIF](https://media.giphy.com/media/g9GWusSJjEMS0/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/g9GWusSJjEMS0/giphy-downsized.gif)
 
 ## Hello there, friend! 👋
 
@@ -14,7 +14,7 @@ Welcome to our awesome creative space! We're thrilled to have you here. Get read
 
 We create, we innovate, and we have way too much fun doing it!
 
-![Coding Magic GIF](https://media.giphy.com/media/l0HlR7fPWLwYzwJ1i/giphy.gif)
+![Coding Magic GIF](https://media.giphy.com/media/l0HlR7fPWLwYzwJ1i/giphy-downsized.gif)
 
 ---
 
@@ -35,7 +35,7 @@ We create, we innovate, and we have way too much fun doing it!
 
 ---
 
-![Funny Developer GIF](https://media.giphy.com/media/3o7TKVv50h9pSRieno/giphy.gif)
+![Funny Developer GIF](https://media.giphy.com/media/3o7TKVv50h9pSRieno/giphy-downsized.gif)
 
 ---
 
@@ -54,7 +54,7 @@ We create, we innovate, and we have way too much fun doing it!
 
 ---
 
-![Success GIF](https://media.giphy.com/media/l0HlAFRpdDP1dLbUS/giphy.gif)
+![Success GIF](https://media.giphy.com/media/l0HlAFRpdDP1dLbUS/giphy-downsized.gif)
 
 ---
 
@@ -62,7 +62,7 @@ We create, we innovate, and we have way too much fun doing it!
 
 We're excited to collaborate with you on incredible projects. Whether you're here to contribute, learn, or just hang out, you're in the right place!
 
-![Rocket GIF](https://media.giphy.com/media/3o6ZtpWz286Ve0MYs0/giphy.gif)
+![Rocket GIF](https://media.giphy.com/media/3o6ZtpWz286Ve0MYs0/giphy-downsized.gif)
 
 ---
 
